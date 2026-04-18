@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Michigan that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Michigan, US",
-  "export_job_id": "9dfd8901-a6c7-4550-b4c6-06e610ea3aa6",
+  "export_job_id": "bce3e372-e63b-47fe-b475-58fd81195eb4",
   "github_org": "Beamstation-Datasets",
   "id_short": 547677,
   "location_name": "Michigan",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/547677/beamstation_547677_food_and_drink-us-mi_SAMPLE_DIST.csv",
   "sample_pct": 8.57,
   "sample_records": 3,
-  "sample_sha256": "7202b03fd4770cf3198aec904fc5df8ba1e83ff9cf517267efca52a0e6ee47c1",
-  "sample_size_bytes": 26602,
+  "sample_sha256": "d32783a21c617fd94fa215a25452cb1742b9119080ef21a77867615b371b7799",
+  "sample_size_bytes": 27065,
   "total_records": 35,
-  "updated_at": "2026-04-07T19:06:58.611084+00:00"
+  "updated_at": "2026-04-15T00:15:44.064529+00:00"
 }
