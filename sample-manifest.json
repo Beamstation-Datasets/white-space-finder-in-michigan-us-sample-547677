@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b2963f3e-a92d-4bc4-b591-da900efb2a36",
+  "export_job_id": "abae258b-ea68-49ec-8c43-056bc7fa2a11",
   "id_short": 547677,
-  "published_at": "2026-04-22T07:38:34Z",
+  "published_at": "2026-04-29T07:43:37Z",
   "repo_name": "white-space-finder-in-michigan-us-sample-547677",
   "sample_asset_name": "beamstation_547677_food_and_drink-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/547677/beamstation_547677_food_and_drink-us-mi_SAMPLE_DIST.csv",
   "sample_records": 3,
-  "sample_sha256": "387af4e50f5de6b3b3488a0c0ab49603b8e08569a08485d9fab54bebd0819054",
-  "sample_size_bytes": 26710,
-  "total_records": 31
+  "sample_sha256": "ee18f620c88a5ee35d0864671142568ca2842462df77a415a306dbcc89075caa",
+  "sample_size_bytes": 26541,
+  "total_records": 33
 }
