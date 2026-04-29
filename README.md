@@ -9,9 +9,9 @@
 | Dataset ID | `547677` |
 | Location | Michigan |
 | Category | Restaurants |
-| Full dataset size | 31 records |
-| Free sample size | 3 records (9.68%) |
-| Last export | 2026-04-22T04:37:25.299517+00:00 |
+| Full dataset size | 33 records |
+| Free sample size | 3 records (9.09%) |
+| Last export | 2026-04-29T06:59:46.016509+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/white-space-finder-in-michigan-us-sample-547677/releases/download/sample-latest/beamstation_547677_food_and_drink-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
